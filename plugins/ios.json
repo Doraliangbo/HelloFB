@@ -1,0 +1,20 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.example.hellofb"
+        },
+        "cordova-plugin-facebook4": {
+            "APP_ID": "140823442730729",
+            "APP_NAME": "FootMaker",
+            "PACKAGE_NAME": "com.example.hellofb"
+        }
+    },
+    "dependent_plugins": {}
+}
